@@ -1,8 +1,8 @@
 const express = require('express')
 const router = express.Router()
 
-const { protect } = require('../middleware/authMiddleware')
-const { requireRole } = require('../middleware/rbacMiddleware')
+const { protect } = require('../Middleware/authMiddleware')
+const { requireRole } = require('../Middleware/rbacMiddleware')
 
 const {
   getLeads,
