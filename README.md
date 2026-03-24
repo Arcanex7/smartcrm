@@ -12,8 +12,8 @@
 
 ## 🌐 Live Demo
 
-- **Frontend:** [smartcrm.vercel.app](https://smartcrm.vercel.app)
-- **Backend API:** [smartcrm-backend.onrender.com](https://smartcrm-backend.onrender.com)
+- **Frontend:** [https://smartcrm-murex.vercel.app](https://smartcrm-murex.vercel.app)
+- **Backend API:** [https://smartcrm-h5px.onrender.com](https://smartcrm-h5px.onrender.com)
 
 ### Demo Credentials
 | Email | Password | Niche |
